@@ -1,0 +1,12 @@
+ ---
+ progress:
+   inactive:
+     abandoned: no reason to re-invent the wheel
+ratings:
+  stable: 7
+  useful: 2
+  caliber: 4
+  tidy: 4
+  tended: 1
+  tests: 1
+  unique: 1
