@@ -1,7 +1,7 @@
- ---
- progress:
-   inactive:
-     abandoned: no reason to re-invent the wheel
+---
+progress:
+  inactive:
+    abandoned: no reason to re-invent the wheel
 ratings:
   stable: 7
   useful: 2
